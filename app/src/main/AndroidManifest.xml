@@ -12,5 +12,4 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cmdsmdfr"
         tools:targetApi="31" />
-
 </manifest>
