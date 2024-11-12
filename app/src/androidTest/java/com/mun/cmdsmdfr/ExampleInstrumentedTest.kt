@@ -21,5 +21,5 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.mun.cmdsmdfr", appContext.packageName)
         //eryrdthughjy
-    }
+    }//lejxlhlhjxgh1jkgxkjwgdkj1xgdkjgxk1x
 }
